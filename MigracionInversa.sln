@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigracionInversa", "MigracionInversa\MigracionInversa.csproj", "{AF1E8F6E-B04C-4CD1-ABBD-B31A21E752FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D736D46F-D8A9-4515-8EFE-B420286D2757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1E8F6E-B04C-4CD1-ABBD-B31A21E752FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1E8F6E-B04C-4CD1-ABBD-B31A21E752FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1E8F6E-B04C-4CD1-ABBD-B31A21E752FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1E8F6E-B04C-4CD1-ABBD-B31A21E752FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D736D46F-D8A9-4515-8EFE-B420286D2757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D736D46F-D8A9-4515-8EFE-B420286D2757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D736D46F-D8A9-4515-8EFE-B420286D2757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D736D46F-D8A9-4515-8EFE-B420286D2757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E03851-69AA-4A82-86BE-7554C4A8627C}
+	EndGlobalSection
+EndGlobal
